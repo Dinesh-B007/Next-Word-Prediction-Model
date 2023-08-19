@@ -22,7 +22,7 @@ This project aims to develop an LSTM-based model that predicts the next word in 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/next-word-prediction.git
+git clone https://github.com/Mohshaikh23/Next-Word-Prediction-Model.git
 cd next-word-prediction
 ```
 
